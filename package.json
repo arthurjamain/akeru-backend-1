@@ -1,0 +1,25 @@
+{
+  "name": "akeru-backend-1",
+  "version": "0.0.1",
+  "description": "A small backend app to mirror the GPS signal sent by Akeru+GPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthurjamain/akeru-backend-1.git"
+  },
+  "author": "Arthur Jamain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurjamain/akeru-backend-1/issues"
+  },
+  "homepage": "https://github.com/arthurjamain/akeru-backend-1",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "ejs": "^2.2.3",
+    "express": "^4.11.1",
+    "mongoose": "^3.8.22"
+  }
+}

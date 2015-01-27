@@ -1,0 +1,27 @@
+body {
+  background: #F8F6F4;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+header {
+  position: absolute;
+  background: #F8F6F4;
+  padding: 20px;
+  top: 50px;
+  left: 50px;
+  z-index: 3;
+  width: 300px;
+}
+
+h1, h2 {
+  font-weight: lighter;
+}
